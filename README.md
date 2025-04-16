@@ -62,7 +62,8 @@ plt.show()
 
 
 # Graph
-![Uploading WhatsApp Image 2025-04-16 at 13.29.25_ff9853e1.jpg…]()
+![WhatsApp Image 2025-04-16 at 13 29 25_75b4b995](https://github.com/user-attachments/assets/de659379-4f0e-488b-ba38-815476fa01d2)
+
 
 
 # Result
